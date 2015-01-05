@@ -1,4 +1,4 @@
 merlin
 ======
 
-secret, shhhh...
+secret, shhhh... see http://goo.gl/6O2XXH
