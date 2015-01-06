@@ -1,4 +1,10 @@
 #!/usr/bin/python -*- coding: utf-8 -*-
+#
+# Merlin tests
+#
+# Copyright (C) 2014-2015 alvations
+# URL:
+# For license information, see LICENSE.md
 
 from merlin import SimpleDataSet 
 
